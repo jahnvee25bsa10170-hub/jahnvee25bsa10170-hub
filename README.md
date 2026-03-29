@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jahnvee 
 
-<!--
-**jahnvee25bsa10170-hub/jahnvee25bsa10170-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- First year B.Tech student at VIT Bhopal University
+- My branch is CSE(CLOUD COMPUTING AND AUTOMATION)
+- Currently learning Digital Literacy and coding basics
+- Building my GitHub portfolio
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Digital Literacy Project for CSE0001 course
+- Learning Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Learn full-stack development
+- Contribute to open source
+- Build projects that help people
+
+## Connect
+- GitHub: You're already here!
